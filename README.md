@@ -1,4 +1,4 @@
-# BOILRPLATE-WEBPACK
+# BOILERPLATE-WEBPACK
 
 
 Environnement de développement simplifié pour les étudiants de Pop School Lens dans le cadre de l'apprentissage de webpack.
